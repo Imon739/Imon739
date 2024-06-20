@@ -19,7 +19,7 @@ CS Student
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Imon739"><img src="https://github-readme-stats.vercel.app/api?username=Imon739&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0C3175&hide_border=true&show_icons=true" alt="Imon739's GitHub stats" /></a>
+<a href="http://www.github.com/Imon739"><img src="https://github-readme-stats.vercel.app/api?username=Imon739&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=8D0000&icon_color=0891b2&bg_color=1093BD&hide_border=true&show_icons=true" alt="Imon739's GitHub stats" /></a>
 
 <a href="http://www.github.com/Imon739"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Imon739&stroke=ffffff&background=831843&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
