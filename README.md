@@ -25,7 +25,7 @@ CS Student
 </div>
 
 
-### Socials
+### Socials 🌐
 
 <p align="left"> 
 <a href="https://www.facebook.com/sazzad.imon739" target="_blank" rel="noreferrer"> 
