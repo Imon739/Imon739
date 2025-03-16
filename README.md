@@ -30,10 +30,7 @@ CS Student
     </a>  
     <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">  
         <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="50" height="50" alt="PyCharm" />  
-    </a>  
-    <a href="http://www.codeblocks.org/" target="_blank" rel="noreferrer">  
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Code::Blocks_Logo.png" width="50" height="50" alt="CodeBlocks" />  
-    </a>  
+    </a>   
     <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer">  
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="50" height="50" alt="Arduino" />  
     </a>  
