@@ -64,7 +64,6 @@ CS Student
     </a>  
 </p>  
 
-🔥 Top Repositories  
 <div align="center">  
     <!-- Add featured repositories here -->  
 </div>  
