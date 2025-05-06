@@ -35,7 +35,17 @@ CS Student
 </div>  
 
 🌐 Socials  
-<p align="center"> <a href="https://www.facebook.com/sazzad.imon739" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/sazzadimon739/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" /> </a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://x.com/Sazzad__Imon" target="_blank" rel="noreferrer" style="background-color: #f0f9ff; padding: 5px; border-radius: 50%;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter" /> </a> </p> 
+<p align="center">  
+    <a href="https://www.facebook.com/sazzad.imon739" target="_blank">  
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />  
+    </a>  
+    <a href="https://www.linkedin.com/in/sazzadimon739/" target="_blank">  
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />  
+    </a>  
+    <a href="https://x.com/Sazzad__Imon" target="_blank">  
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />  
+    </a>  
+</p>  
 
 🎯 GitHub Stats  
 <p align="center">  
