@@ -55,22 +55,18 @@ CS Student
 </p>
 
 <!-- 🎯 GitHub Stats Section -->
-
-<!-- GitHub Profile Stats -->
-<p align="center">
-  <a href="https://github.com/Imon739">
-    <img src="https://github-readme-stats.vercel.app/api?username=Imon739&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&cache_seconds=1800" alt="Imon739's GitHub Stats"/>
-  </a>
-</p>
-
-<!-- GitHub Streak Stats (Fixed with reliable source) -->
 <p align="center">
   <a href="https://github.com/Imon739">
     <img src="https://streak-stats.demolab.com/?user=Imon739&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Imon739's GitHub Streak"/>
   </a>
 </p>
 
-<!-- Most Used Languages -->
+<p align="center">
+  <a href="https://github.com/Imon739">
+    <img src="https://streak-stats.demolab.com/?user=Imon739&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Imon739's GitHub Streak"/>
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/Imon739">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imon739&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&cache_seconds=1800" alt="Top Languages"/>
