@@ -37,19 +37,16 @@ CS Student
 🌐 Socials  
 <p align="center">
   <a href="https://www.facebook.com/sazzad.imon739" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" 
-         width="40" height="40" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sazzadimon739/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         width="40" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Sazzad__Imon" target="_blank" rel="noreferrer">
     <div style="display: inline-block; background-color: #f0f9ff; padding: 5px; border-radius: 50%;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
-           width="40" height="40" alt="Twitter" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter" />
     </div>
   </a>
 </p>
@@ -61,10 +58,10 @@ CS Student
   </a>
 </p>
 
-<!-- GitHub Streak Stats (Working URL) -->
+<!-- GitHub Streak Stats -->
 <p align="center">
   <a href="https://github.com/Imon739">
-    <img src="https://streak-stats.demolab.com/?user=Imon739&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Imon739's GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?user=Imon739&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Imon739's GitHub Streak Stats"/>
   </a>
 </p>
 
@@ -85,5 +82,4 @@ CS Student
   -->
 </div>
 
-
-🔥 Feel free to connect and explore my repositories!  
+🔥 Feel free to connect and explore my repositories!
