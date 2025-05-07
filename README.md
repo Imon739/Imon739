@@ -54,25 +54,34 @@ CS Student
   </a>
 </p>
 
-🎯 GitHub Stats  
-<p align="center">  
-    <a href="http://www.github.com/Imon739">  
-        <img src="https://github-readme-stats.vercel.app/api?username=Imon739&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true" alt="GitHub Stats" />  
-    </a>  
-</p>  
-<p align="center">  
-    <a href="http://www.github.com/Imon739">  
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imon739&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" />  
-    </a>  
-</p>  
-<p align="center">  
-    <a href="https://github.com/Imon739">  
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imon739&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />  
-    </a>  
-</p>  
+<!-- 🎯 GitHub Stats Section -->
 
-<div align="center">  
-    <!-- Add featured repositories here -->  
-</div>  
+<!-- GitHub Profile Stats -->
+<p align="center">
+  <a href="https://github.com/Imon739">
+    <img src="https://github-readme-stats.vercel.app/api?username=Imon739&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&cache_seconds=1800" alt="Imon739's GitHub Stats"/>
+  </a>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/Imon739">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Imon739&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Imon739's GitHub Streak"/>
+  </a>
+</p>
+
+<!-- Most Used Languages -->
+<p align="center">
+  <a href="https://github.com/Imon739">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imon739&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0D1117&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact&cache_seconds=1800" alt="Top Languages"/>
+  </a>
+</p>
+
+<!-- Optional: Add featured repositories or pinned projects here -->
+<div align="center">
+  <!-- Example: Replace with your actual repo -->
+  <!-- <a href="https://github.com/Imon739/your-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Imon739&repo=your-project&theme=github_dark" /></a> -->
+</div>
+
 
 🔥 Feel free to connect and explore my repositories!  
