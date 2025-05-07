@@ -58,10 +58,10 @@ CS Student
   </a>
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (HEROKUAPP VERSION) -->
 <p align="center">
-  <a href="https://github.com/Imon739">
-    <img src="https://streak-stats.demolab.com?user=Imon739&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Imon739's GitHub Streak Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imon739&theme=dark&hide_border=true" alt="Imon739's GitHub Streak"/>
   </a>
 </p>
 
