@@ -63,10 +63,10 @@ CS Student
   </a>
 </p>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Fixed with reliable source) -->
 <p align="center">
   <a href="https://github.com/Imon739">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Imon739&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Imon739's GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=Imon739&stroke=ffffff&background=0D1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=0891b2&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Imon739's GitHub Streak"/>
   </a>
 </p>
 
@@ -80,8 +80,9 @@ CS Student
 <!-- Optional: Add featured repositories or pinned projects here -->
 <div align="center">
   <!-- Example: Replace with your actual repo -->
-  <!-- <a href="https://github.com/Imon739/your-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Imon739&repo=your-project&theme=github_dark" /></a> -->
+  <!-- <a href="https://github.com/Imon739/your-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imon739&repo=your-project&theme=github_dark" />
+  </a> -->
 </div>
-
 
 🔥 Feel free to connect and explore my repositories!  
