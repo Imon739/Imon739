@@ -8,31 +8,36 @@ CS Student
 
 🚀 Languages & Tools  
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap;">  
-    <a href="https://www.python.org/" target="_blank">  
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" />  
-    </a>  
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">  
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="50" height="50" alt="C" />  
-    </a>  
-    <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">  
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" />  
-    </a>  
-    <a href="https://www.oracle.com/java/" target="_blank">  
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="50" height="50" alt="Java" />  
-    </a>  
-    <a href="https://code.visualstudio.com/" target="_blank">  
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="50" height="50" alt="VS Code" />  
-    </a>  
-    <a href="https://www.jetbrains.com/idea/" target="_blank">  
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.svg" width="50" height="50" alt="IntelliJ IDEA" />  
-    </a>  
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank">  
-        <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg" width="50" height="50" alt="PyCharm" />  
-    </a>  
-    <a href="https://store.arduino.cc/" target="_blank">  
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="50" height="50" alt="Arduino" />  
-    </a>  
-</div>  
+<p align="center"> 
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+</p>
+</div> 
 
 🌐 Socials  
 <p align="center">
@@ -45,9 +50,7 @@ CS Student
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/Sazzad__Imon" target="_blank" rel="noreferrer">
-    <div style="display: inline-block; background-color: #f0f9ff; padding: 5px; border-radius: 50%;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter" />
-    </div>
   </a>
 </p>
 
@@ -72,14 +75,8 @@ CS Student
   </a>
 </p>
 
-<!-- Optional: Add featured repositories or pinned projects here -->
 <div align="center">
-  <!-- Example pinned repo card -->
-  <!--
-  <a href="https://github.com/Imon739/your-repo-name">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Imon739&repo=your-repo-name&theme=github_dark" />
-  </a>
-  -->
+
 </div>
 
 🔥 Feel free to connect and explore my repositories!
