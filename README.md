@@ -6,6 +6,11 @@ CS Student
 
 ✉️ Contact me at [mimon2310084@bscse.uiu.ac.bd](mailto:mimon2310084@bscse.uiu.ac.bd)  
 
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Imon739&label=Profile%20views&color=0e75b6&style=flat" alt="Imon739" />
+</div>
+
+
 🚀 Languages & Tools  
 <div align="center" style="display: flex; gap: 15px; flex-wrap: wrap;">  
 <p align="center"> 
