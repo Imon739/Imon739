@@ -15,7 +15,7 @@ Hi 👋 This is Imon
 ## 🚀 Languages & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,linux,mysql,arduino,apache,figma" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,git,linux,mysql,arduino,figma" />
 </p>
 
 ---
@@ -41,15 +41,18 @@ Hi 👋 This is Imon
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imon739&show_icons=true&count_private=true&bg_color=0D1117&title_color=ffffff&text_color=ffffff&icon_color=0891b2&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Imon739&theme=github_dark" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Imon739&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Imon739&theme=github_dark" />
+</p>
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imon739&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imon739&layout=compact&bg_color=0D1117&title_color=0891b2&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
