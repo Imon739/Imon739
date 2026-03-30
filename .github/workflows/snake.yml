@@ -2,22 +2,27 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write   # 🔥 IMPORTANT (most common issue)
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Imon739
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=00DBFF&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00DBFF
+            dist/snake.svg?color_snake=00DBFF
+            dist/snake-dark.svg?palette=github-dark&color_snake=00DBFF
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push to branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
