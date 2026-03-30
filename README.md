@@ -5,13 +5,6 @@
 
 ---
 
-## 🚀 About Me  
-- 💻 Passionate about **Software Development & IoT**  
-- 🤖 Interested in **AI, ML & DBMS Projects**  
-- ⚡ Love building **real-world problem solving systems**  
-- 🎯 Goal: Become a **top-tier developer & innovator**  
-
----
 
 ## 🛠️ Tech Stack  
 
