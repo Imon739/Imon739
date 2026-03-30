@@ -56,10 +56,7 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/Imon739/Imon739/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="snake" src="https://raw.githubusercontent.com/Imon739/Imon739/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/Imon739/Imon739/output/snake.svg" />
 </p>
 
 ---
